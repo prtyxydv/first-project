@@ -17,3 +17,6 @@ A simple Linux system monitoring tool built in Python using `psutil`.
 - How Python interacts with the Linux OS
 - How system metrics are collected
 - How logging and persistence work
+(STILL WORKING ON IT THO)
+:)
+
